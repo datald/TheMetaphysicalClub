@@ -1,0 +1,19 @@
+{
+  "description": "Ralph Waldo Emerson (May 25, 1803 \u2013 April 27, 1882), known professionally as Waldo Emerson, was an American essayist, lecturer, and poet who led the transcendentalist movement of the mid-19th century. He was seen as a champion of individualism and a prescient critic of the countervailing pressures of society, and he disseminated his thoughts through dozens of published essays and more than 1,500 public lectures across the United States. / Emerson gradually moved away from the religious and social beliefs of his contemporaries, formulating and expressing the philosophy of transcendentalism in his 1836 essay 'Nature'. Following this groundbreaking work, he gave a speech entitled 'The American Scholar' in 1837, which Oliver Wendell Holmes Sr. considered to be America's 'intellectual Declaration of Independence'.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Ralph_Waldo_Emerson_ca1857_retouched.jpg",
+  "name": "Ralph Waldo Emerson",
+  "@context": ["http://schema.org"],
+  "familyName": "Emerson",
+  "sameAs": "http://plato.stanford.edu/entries/emerson/",
+  "@type": ["Person"],
+  "deathDate": "+1882-04-27T00:00:00Z",
+  "jobTitle": "Philosopher",
+  "deathPlace": "Concord, Massachusetts, U.S.",
+  "birthPlace": "Boston, Massachusetts, U.S.",
+  "additionalName": "Waldo Emerson",
+  "homeLocation": "Boston, MA",
+  "url": "https://en.wikipedia.org/wiki/Ralph_Waldo_Emerson",
+  "birthDate": "+1803-05-25T00:00:00Z",
+  "givenName": "Ralph",
+  "knows": "https://en.wikipedia.org/wiki/Henry_David_Thoreau"
+}

@@ -1,0 +1,19 @@
+{
+  "description": "Immanuel Kant (/k\u00e6nt/; German: [\u026a\u02c8ma\u02d0nu\u032fe\u02d0l kant]; 22 April 1724 \u2013 12 February 1804) was a German philosopher who is considered the central figure of modern philosophy. Kant argued that the human mind creates the structure of human experience, that reason is the source of morality, that aesthetics arises from a faculty of disinterested judgment, that space and time are forms of our sensibility, and that the world as it is 'in-itself' is independent of our concepts of it. Kant took himself to have effected a Copernican revolution in philosophy, akin to Copernicus' reversal of the age-old belief that the sun revolved around the earth. His beliefs continue to have a major influence on contemporary philosophy, especially the fields of metaphysics, epistemology, ethics, political theory, and aesthetics.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/43/Immanuel_Kant_%28painted_portrait%29.jpg",
+  "name": "Immanuel Kant",
+  "@context": ["http://schema.org"],
+  "familyName": "Kant",
+  "sameAs": "http://plato.stanford.edu/entries/kant/",
+  "@type": ["Person"],
+  "deathDate": "+1804-02-12T00:00:00Z",
+  "jobTitle": "Philosopher",
+  "deathPlace": "K\u00f6nigsberg, Prussia",
+  "birthPlace": "Kaliningrad, Russia",
+  "additionalName": "Kant",
+  "homeLocation": "Germany",
+  "url": "https://en.wikipedia.org/wiki/Immanuel_Kant",
+  "birthDate": "+1724-04-22T00:00:00Z",
+  "givenName": "Immanuel",
+  "knows": "https://en.wikipedia.org/wiki/Markus_Herz"
+}

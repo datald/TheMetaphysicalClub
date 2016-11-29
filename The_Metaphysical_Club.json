@@ -1,0 +1,10 @@
+{
+  "alternateName": "Metaphysical Club",
+  "@type": ["Thing"],
+  "additionalType": "Society",
+  "description": "The Metaphysical Club was a conversational philosophical club that the future Supreme Court Justice Oliver Wendell Holmes, Jr., the philosopher and psychologist William James, and the philosopher Charles Sanders Peirce formed in January 1872 in Cambridge, Massachusetts and dissolved in December 1872. Upon Peirce's arrival at Johns Hopkins University in 1879, he founded a new Metaphysical Club there. Despite the name, these academic philosophical discussion groups pursued critical thinking of a pragmatist and positivist nature and rejected traditional European metaphysics. In fact, it was within these philosophical discussions that pragmatism is said to have been born. / Other members of the club included Chauncey Wright, John Fiske, Francis Ellingwood Abbot, Nicholas St. John Green, and Joseph Bangs Warner. The Metaphysical Club is never mentioned by any person within the club other than Peirce. The only other known person to have mentioned the club was Henry James, the great novelist and brother of William James.",
+  "url": "https://en.wikipedia.org/wiki/The_Metaphysical_Club",
+  "name": "The_Metaphysical_Club",
+  "@context": ["http://schema.org"],
+  "sameAs": "http://www.pragmatism.org/research/metaphysical_club.htm"
+}

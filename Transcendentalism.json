@@ -1,0 +1,10 @@
+{
+  "@type": ["Thing"],
+  "additionalType": "Concept",
+  "description": "Transcendentalism is a philosophical movement that developed in the late 1820s and 1830s in the eastern United States. It arose as a reaction to or protest against the general state of intellectualism and spirituality at the time. The doctrine of the Unitarian church as taught at Harvard Divinity School was of particular interest. / Transcendentalism emerged from English and German Romanticism, the Biblical criticism of Herder and Schleiermacher, the skepticism of Hume, and the transcendental philosophy of Immanuel Kant and German Idealism. It was also influenced by sacred Indian treatises/texts, especially the Upanishads.",
+  "url": "https://en.wikipedia.org/wiki/Transcendentalism",
+  "name": "Transcendentalism",
+  "@context": ["http://schema.org"],
+  "sameAs": "http://plato.stanford.edu/entries/transcendentalism/",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Ralph_Waldo_Emerson_ca1857.jpg"
+}

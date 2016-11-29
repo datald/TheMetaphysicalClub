@@ -1,0 +1,11 @@
+{
+  "alternateName": "last chapters, parts of the Veda",
+  "@type": ["Thing"],
+  "additionalType": "Book",
+  "description": "The Upanishads (Sanskrit: Upani\u1e63ad; IPA: [\u028ap\u0259n\u032a\u026a\u0282\u0259d\u032a]) are a collection of texts that contain some of the central philosophical concepts of Hinduism, some of which are shared with Buddhism, Jainism and Sikhism. The Upanishads are considered by Hindus to contain utterances (\u015bruti) concerning the nature of ultimate reality (brahman) and describing the character of and path to human salvation (mok\u1e63a or mukti). / The Upanishads are commonly referred to as Ved\u0101nta, variously interpreted to mean either the 'last chapters, parts of the Veda' or 'the object, the highest purpose of the Veda'. The concepts of Brahman (Ultimate Reality) and \u0100tman (Soul, Self) are central ideas in all the Upanishads, and 'Know your \u0100tman' their thematic focus. The Upanishads are the foundation of Hindu philosophical thought and its diverse traditions. Of the Vedic corpus, they alone are widely known, and the central ideas of the Upanishads are at the spiritual core of Hindus.",
+  "url": "https://en.wikipedia.org/wiki/Upanishads",
+  "name": "Upanishads",
+  "@context": ["http://schema.org"],
+  "sameAs": "http://www.wikidata.org/wiki/Q6113985",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/02/Rigveda_MS2097.jpg"
+}

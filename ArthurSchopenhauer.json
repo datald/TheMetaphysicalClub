@@ -1,0 +1,19 @@
+{
+  "description": "Arthur Schopenhauer (German: [\u02c8a\u0250\u032ft\u028a\u0250\u032f \u02c8\u0283o\u02d0pm\u0329\u02ccha\u028a\u032f\u0250]; 22 February 1788 \u2013 21 September 1860) was a German philosopher. He is best known for his 1818 work The World as Will and Representation, in which he characterizes the phenomenal world as the product of a blind, insatiable, and malignant metaphysical will. Proceeding from the transcendental idealism of Immanuel Kant, Schopenhauer developed an atheistic metaphysical and ethical system that has been described as an exemplary manifestation of philosophical pessimism, rejecting the contemporaneous post-Kantian philosophies of German idealism. Schopenhauer was among the first thinkers in Western philosophy to share and affirm significant tenets of Eastern philosophy (e.g., asceticism, the world-as-appearance), having initially arrived at similar conclusions as the result of his own philosophical work. His writing on aesthetics, morality, and psychology would exert important influence on thinkers and artists throughout the 19th and 20th centuries. / Though his work failed to garner substantial attention during his life, Schopenhauer has had a posthumous impact across various disciplines, including philosophy, literature, and science. Those who have cited his influence include Friedrich Nietzsche, Richard Wagner, Leo Tolstoy, Ludwig Wittgenstein, Erwin Schr\u00f6dinger, Sigmund Freud, Gustav Mahler, Joseph Campbell, Albert Einstein, Carl Jung, Thomas Mann, Jorge Luis Borges, and Samuel Beckett, among others.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Schopenhauer.jpg",
+  "name": "Arthur Schopenhauer",
+  "@context": ["http://schema.org"],
+  "familyName": "Schopenhauer",
+  "sameAs": "http://plato.stanford.edu/entries/schopenhauer/",
+  "@type": ["Person"],
+  "deathDate": "+1860-09-21T00:00:00Z",
+  "jobTitle": "Philosopher",
+  "deathPlace": "Frankfurt, German Confederation",
+  "birthPlace": "Danzig",
+  "additionalName": "",
+  "homeLocation": "Germany",
+  "url": "https://en.wikipedia.org/wiki/Arthur_Schopenhauer",
+  "birthDate": "+1788-02-22T00:00:00Z",
+  "givenName": "Arthur",
+  "knows": "https://en.wikipedia.org/wiki/Friedrich_Nietzsche"
+}

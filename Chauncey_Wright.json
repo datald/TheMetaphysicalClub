@@ -1,0 +1,18 @@
+{
+  "description": "Chauncey Wright (September 10, 1830 \u2013 September 12, 1875) was an American philosopher and mathematician, who was an influential early defender of Darwinism and an important influence on American pragmatists such as Charles Sanders Peirce and William James. / Wright was born in Northampton, Massachusetts, the son of a merchant and a pillar of the local Unitarian church.[1] With financial help from a benefactor, Wright attended Harvard, where his reading of Ralph Waldo Emerson led him to abandon his youthful Unitarianism. In 1852 he graduated from Harvard and became a computer to the Nautical Almanac. In college, he was mainly interested in science and mathematics. In the 1850s, however, he began reading philosophers such as Francis Bacon, John Stuart Mill, and William Hamilton, and he became a frequent contributor to the North American Review and the Nation, becoming a well-known defender of Darwinism and a critic of the English philosopher and social theorist Herbert Spencer.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Chauncey_Wright.jpg",
+  "name": "Chauncey_Wright",
+  "@context": ["http://schema.org"],
+  "familyName": "Wright",
+  "sameAs": "http://plato.stanford.edu/entries/wright/",
+  "@type": ["Person"],
+  "deathDate": "+1875-09-12T00:00:00Z",
+  "jobTitle": "Philosopher",
+  "deathPlace": "United States",
+  "birthPlace": " Northampton, Massachusetts",
+  "homeLocation": "Cambridge, MA",
+  "url": "https://en.wikipedia.org/wiki/Chauncey_Wright",
+  "birthDate": "+1830-09-10T00:00:00Z",
+  "givenName": "Chauncey",
+  "knows": "https://en.wikipedia.org/wiki/Charles_Sanders_Peirce"
+}
