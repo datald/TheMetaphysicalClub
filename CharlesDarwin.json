@@ -1,1 +1,19 @@
-{"description": "English naturalist and geologist, best known for his contributions to the science of evolution.", "image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Charles_Darwin_seated_crop.jpg", "name": "Charles Darwin", "@context": ["http://schema.org"], "familyName": "Darwin", "sameAs": "https://global.britannica.com/biography/Charles-Darwin", "@type": ["Person"], "deathDate": "+1882-04-19T00:00:00Z", "jobTitle": "Naturalist, Geologist", "deathPlace": "Down House, Kent, England", "birthPlace": "The Mount, Shrewsbury, Shropshire, England", "additionalName": "Charles Robert Darwin", "homeLocation": "London, England, UK", "url": "https://en.wikipedia.org/wiki/Charles_Darwin", "birthDate": "+1809-02-12T00:00:00Z", "givenName": "Charles", "knows": "https://en.wikipedia.org/wiki/Herbert_Spencer"}
+{
+  "description": "English naturalist and geologist, best known for his contributions to the science of evolution.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Charles_Darwin_seated_crop.jpg",
+  "name": "Charles Darwin",
+  "@context": ["http://schema.org"],
+  "familyName": "Darwin",
+  "sameAs": "https://global.britannica.com/biography/Charles-Darwin",
+  "@type": ["Person"],
+  "deathDate": "+1882-04-19T00:00:00Z",
+  "jobTitle": "Naturalist, Geologist",
+  "deathPlace": "Down House, Kent, England",
+  "birthPlace": "The Mount, Shrewsbury, Shropshire, England",
+  "additionalName": "Charles Robert Darwin",
+  "homeLocation": "London, England, UK",
+  "url": "https://en.wikipedia.org/wiki/Charles_Darwin",
+  "birthDate": "+1809-02-12T00:00:00Z",
+  "givenName": "Charles",
+  "knows": "https://en.wikipedia.org/wiki/Herbert_Spencer"
+}
